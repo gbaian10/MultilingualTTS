@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+# Welcome!
 
-You can use the [editor on GitHub](https://github.com/gbaian10/MultilingualTTS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here, we show the Multi-speaker TTS system.<br>
+We add LDE Speaker Embeddings and Voice Conversion Embeddings in our Tacotron 2.<br>
+And, the vocoder is DiffWave which is trained by VCTK Corpus about 500_000 iteration.
+<br>
+<b>The Tacotron2 system has not yet reached the best! </b>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Seen Speaker
+## Inside Text
 
-### Markdown
+<b>zh001.wav 在實現這些最重要也是最難的地方在於張量維度的轉換</b>
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> Ground-truth</td>
+            <td> VC Embedding</td>
+            <td> LDE Embedding</td>
+        </tr>
+        <tr>
+            <td>        
+                <audio controls>
+                    <source src="audio/zh/001.wav" type="audio/wav">
+                </audio>
+            </td>
+        </tr>
+    </table>
+</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<b>en001.wav Do you have any tables available this evening?</b>
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> Ground-truth</td>
+            <td> VC Embedding</td>
+            <td> LDE Embedding</td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls>
+                    <source src="audio/en/001.wav" type="audio/wav">
+                </audio>
+            </td>
+        </tr>
+    </table>
+</div>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gbaian10/MultilingualTTS/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<b>cs001.wav 在實現這些model最重要也是最難的地方在於張量維度的轉換</b>
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> Ground-truth</td>
+            <td> VC Embedding</td>
+            <td> LDE Embedding</td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls>
+                    <source src="audio/01.wav" type="audio/wav">
+                </audio>
+            </td>
+        </tr>
+    </table>
+</div>
