@@ -6,7 +6,7 @@ Vocoder目前使用Griffin-Lim演算法
 <br>
 <b> ### </b>
 
-#純中文
+# 純中文
 ## Outside Text
 
 <b>在實現這些最重要也是最難的地方在於張量維度的轉換</b>
@@ -19,12 +19,12 @@ Vocoder目前使用Griffin-Lim演算法
         <tr>
             <td>        
                 <audio controls>
-                    <source src="audio/plus0/zh/001.wav" type="audio/wav">
+                    <source src="audio/plus_/zh/001.wav" type="audio/wav">
                 </audio>
             </td>
             <td>
                 <audio controls>
-                    <source src="audio/plus_/zh/001.wav" type="audio/wav">
+                    <source src="audio/plus0/zh/001.wav" type="audio/wav">
                 </audio> 
             </td>
         </tr>
@@ -41,12 +41,12 @@ Vocoder目前使用Griffin-Lim演算法
         <tr>
             <td>        
                 <audio controls>
-                    <source src="audio/plus0/zh/002.wav" type="audio/wav">
+                    <source src="audio/plus_/zh/002.wav" type="audio/wav">
                 </audio>
             </td>
             <td>
                 <audio controls>
-                    <source src="audio/plus_/zh/002.wav" type="audio/wav">
+                    <source src="audio/plus0/zh/002.wav" type="audio/wav">
                 </audio> 
             </td>
         </tr>
@@ -63,12 +63,12 @@ Vocoder目前使用Griffin-Lim演算法
         <tr>
             <td>        
                 <audio controls>
-                    <source src="audio/plus0/zh/003.wav" type="audio/wav">
+                    <source src="audio/plus_/zh/003.wav" type="audio/wav">
                 </audio>
             </td>
             <td>
                 <audio controls>
-                    <source src="audio/plus_/zh/003.wav" type="audio/wav">
+                    <source src="audio/plus0/zh/003.wav" type="audio/wav">
                 </audio> 
             </td>
         </tr>
@@ -85,12 +85,12 @@ Vocoder目前使用Griffin-Lim演算法
         <tr>
             <td>        
                 <audio controls>
-                    <source src="audio/plus0/zh/004.wav" type="audio/wav">
+                    <source src="audio/plus_/zh/004.wav" type="audio/wav">
                 </audio>
             </td>
             <td>
                 <audio controls>
-                    <source src="audio/plus_/zh/004.wav" type="audio/wav">
+                    <source src="audio/plus0/zh/004.wav" type="audio/wav">
                 </audio> 
             </td>
         </tr>
@@ -107,12 +107,12 @@ Vocoder目前使用Griffin-Lim演算法
         <tr>
             <td>        
                 <audio controls>
-                    <source src="audio/plus0/zh/005.wav" type="audio/wav">
+                    <source src="audio/plus_/zh/005.wav" type="audio/wav">
                 </audio>
             </td>
             <td>
                 <audio controls>
-                    <source src="audio/plus_/zh/005.wav" type="audio/wav">
+                    <source src="audio/plus0/zh/005.wav" type="audio/wav">
                 </audio> 
             </td>
         </tr>
