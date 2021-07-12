@@ -10,7 +10,7 @@ Vocoder目前使用Griffin-Lim演算法
 ## Outside Text
 
 <b>在實現這些最重要也是最難的地方在於張量維度的轉換</b>
-<div style="border:1px black solid;width:668px;">
+<div style="border:1px black solid;width:669px;">
     <table>
         <tr>
             <td> 加底線 _ </td>
