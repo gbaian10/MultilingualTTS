@@ -118,3 +118,338 @@ Vocoder目前使用Griffin-Lim演算法
         </tr>
     </table>
 </div>
+
+<b>全台疫情大爆發</b>
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> 加底線 _ </td>
+            <td> 加零 0 </td>
+        </tr>
+        <tr>
+            <td>        
+                <audio controls>
+                    <source src="audio/plus_/zh/006.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/plus0/zh/006.wav" type="audio/wav">
+                </audio> 
+            </td>
+        </tr>
+    </table>
+</div>
+
+<b>民眾外出時須全程配戴口罩</b>
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> 加底線 _ </td>
+            <td> 加零 0 </td>
+        </tr>
+        <tr>
+            <td>        
+                <audio controls>
+                    <source src="audio/plus_/zh/007.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/plus0/zh/007.wav" type="audio/wav">
+                </audio> 
+            </td>
+        </tr>
+    </table>
+</div>
+
+<b>餐飲場所若無法落實防疫規定</b>
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> 加底線 _ </td>
+            <td> 加零 0 </td>
+        </tr>
+        <tr>
+            <td>        
+                <audio controls>
+                    <source src="audio/plus_/zh/008.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/plus0/zh/008.wav" type="audio/wav">
+                </audio> 
+            </td>
+        </tr>
+    </table>
+</div>
+
+<b>營業及公共場域維持社交距離</b>
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> 加底線 _ </td>
+            <td> 加零 0 </td>
+        </tr>
+        <tr>
+            <td>        
+                <audio controls>
+                    <source src="audio/plus_/zh/009.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/plus0/zh/009.wav" type="audio/wav">
+                </audio> 
+            </td>
+        </tr>
+    </table>
+</div>
+
+<b>表示由於報告延遲、衛生人員感染數增加、變異株傳播影響，未來數週疫情可能再惡化，應立即實施嚴格人流限制措施，包括限制跨區旅行及聚集活動。</b>
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> 加底線 _ </td>
+            <td> 加零 0 </td>
+        </tr>
+        <tr>
+            <td>        
+                <audio controls>
+                    <source src="audio/plus_/zh/010.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/plus0/zh/010.wav" type="audio/wav">
+                </audio> 
+            </td>
+        </tr>
+    </table>
+</div>
+
+
+# 純英文
+## Outside Text
+
+<b>Do you have any tables available this evening?</b>
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> 加底線 _ </td>
+            <td> 加零 0 </td>
+        </tr>
+        <tr>
+            <td>        
+                <audio controls>
+                    <source src="audio/plus_/en/001.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/plus0/en/001.wav" type="audio/wav">
+                </audio> 
+            </td>
+        </tr>
+    </table>
+</div>
+
+<b>Excuse me, we are ready to order.</b>
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> 加底線 _ </td>
+            <td> 加零 0 </td>
+        </tr>
+        <tr>
+            <td>        
+                <audio controls>
+                    <source src="audio/plus_/en/002.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/plus0/en/002.wav" type="audio/wav">
+                </audio> 
+            </td>
+        </tr>
+    </table>
+</div>
+
+<b>Could you wrap this up for me?</b>
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> 加底線 _ </td>
+            <td> 加零 0 </td>
+        </tr>
+        <tr>
+            <td>        
+                <audio controls>
+                    <source src="audio/plus_/en/003.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/plus0/en/003.wav" type="audio/wav">
+                </audio> 
+            </td>
+        </tr>
+    </table>
+</div>
+
+<b>Do you have high chairs?</b>
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> 加底線 _ </td>
+            <td> 加零 0 </td>
+        </tr>
+        <tr>
+            <td>        
+                <audio controls>
+                    <source src="audio/plus_/en/004.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/plus0/en/004.wav" type="audio/wav">
+                </audio> 
+            </td>
+        </tr>
+    </table>
+</div>
+
+<b>Can I reserve a table for dinner for two at six thirty on Monday, Ocotber 5?</b>
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> 加底線 _ </td>
+            <td> 加零 0 </td>
+        </tr>
+        <tr>
+            <td>        
+                <audio controls>
+                    <source src="audio/plus_/en/005.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/plus0/en/005.wav" type="audio/wav">
+                </audio> 
+            </td>
+        </tr>
+    </table>
+</div>
+
+<b>I'd like to make a reservation.</b>
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> 加底線 _ </td>
+            <td> 加零 0 </td>
+        </tr>
+        <tr>
+            <td>        
+                <audio controls>
+                    <source src="audio/plus_/en/006.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/plus0/en/006.wav" type="audio/wav">
+                </audio> 
+            </td>
+        </tr>
+    </table>
+</div>
+
+<b>May I have the check, please?</b>
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> 加底線 _ </td>
+            <td> 加零 0 </td>
+        </tr>
+        <tr>
+            <td>        
+                <audio controls>
+                    <source src="audio/plus_/en/007.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/plus0/en/007.wav" type="audio/wav">
+                </audio> 
+            </td>
+        </tr>
+    </table>
+</div>
+
+<b>I have to think it over.</b>
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> 加底線 _ </td>
+            <td> 加零 0 </td>
+        </tr>
+        <tr>
+            <td>        
+                <audio controls>
+                    <source src="audio/plus_/en/008.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/plus0/en/008.wav" type="audio/wav">
+                </audio> 
+            </td>
+        </tr>
+    </table>
+</div>
+
+<b>I have a reservation under the name Winnie.</b>
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> 加底線 _ </td>
+            <td> 加零 0 </td>
+        </tr>
+        <tr>
+            <td>        
+                <audio controls>
+                    <source src="audio/plus_/en/009.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/plus0/en/009.wav" type="audio/wav">
+                </audio> 
+            </td>
+        </tr>
+    </table>
+</div>
+
+<b>Can you spot me?</b>
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> 加底線 _ </td>
+            <td> 加零 0 </td>
+        </tr>
+        <tr>
+            <td>        
+                <audio controls>
+                    <source src="audio/plus_/en/010.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/plus0/en/010.wav" type="audio/wav">
+                </audio> 
+            </td>
+        </tr>
+    </table>
+</div>
+
